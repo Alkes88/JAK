@@ -1,0 +1,3 @@
+name: Jenny Liang Nergård
+favourite color: yellow
+favourite food: Asian dishes
